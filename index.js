@@ -42,7 +42,7 @@ const getDate = (() => {
     let dd = today.getDate()
     let mm = months[today.getMonth()]
     let yy = today.getFullYear()
-    date.innerHTML = `${dd}-${mm}-${yy}` //output --> 14-March-2023
+    date.innerHTML = `${dd}-${mm}-${yy}`
 })()
 // getDate()
 
