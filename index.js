@@ -1,3 +1,4 @@
+
 const date = document.querySelector('#date');
 const description = document.querySelector('#description');
 const temp = document.querySelector('#temp');
